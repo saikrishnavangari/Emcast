@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <!-- text size -->
+    <dimen name="descriptiontextgap">25dp</dimen>
+    <dimen name="text_size_small">10dp</dimen>
+    <dimen name="title_text">15dp</dimen>
+    <dimen name="fifty">50dp</dimen>
+
+    <!-- Mp3 and Mp4  image size -->
+    <dimen name="image_button_mp3">30dp</dimen>
+    <dimen name="image_button_mp4">40dp</dimen>
+    <!-- feedback title text -->
+    <dimen name="feedback_title">20dp</dimen>
+
+
+
+    <!-- dimension for background image size and also for margin on playing media welcomescreen-->
+    <dimen name="backgroundimagesize">150dp</dimen>
+
+    <!-- common margin dimension -->
+    <dimen name="margin_10dp">10dp</dimen>
+
+    <!-- playbuttons gpace dimensions -->
+    <dimen name="gap_play_buttons">20dp</dimen>
+    <dimen name="playbuttonsGapbottom">30dp</dimen>
+    <dimen name="playbuttonsize">30dp</dimen>
+</resources>
